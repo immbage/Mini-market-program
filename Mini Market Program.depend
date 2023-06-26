@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632227851 source:c:\kuliah\matkul\tugas\computing career\homework 1\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
+1632229270 source:c:\kuliah\matkul\tugas\computing career\homework 1\mini market program\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
